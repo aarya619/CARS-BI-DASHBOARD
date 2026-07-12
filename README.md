@@ -142,9 +142,9 @@ Cars-Analytics-Dashboard/
 
 # 👨‍💻 Author
 
-**Randhir Singh Shekhawat**
+**AARYA KOTHE**
 
-🎓 IT Engineering Student
+🎓 ELECTRONICS Engineering Student
 
 📊 Aspiring Data Analyst | Power BI Enthusiast
 
